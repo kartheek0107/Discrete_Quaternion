@@ -74,7 +74,7 @@ dqlct_project/
 │   ├── DQLCTSpeechProcessor class
 │   ├── Audio processing pipeline
 │   ├── Overlap-add reconstruction
-│   ├── Publication-quality visualization (8 plots)
+│   ├── Visualization
 │   └── Result export and statistics
 │
 ├── analysis_utils.py
@@ -110,7 +110,7 @@ Overlap-Add Reconstruction
     ↓
 Validation and Statistics
     ↓
-Visualization (8 Publication-Quality Plots)
+Visualization
     ↓
 Results Export
 ```
